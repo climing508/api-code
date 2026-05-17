@@ -1,6 +1,6 @@
-package com.liaoying;
+package com.liaoying.a01mathtest;
 
-public class a01mathtest {
+public class MathTest1 {
     public static void main(String[] args) {
         //1、不能创建Math对象
         //Math ma=new Math();
